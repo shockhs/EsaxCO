@@ -27,7 +27,7 @@
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slider-javascript&theme=tokyonight&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esaxco&repo=slider-javascript&theme=tokyonight&show_icons=true)
 
 [website]: https://esaxco.github.io/portfolio/
 [facebook]: https://www.facebook.com/vagan.mkrtchyan.5
