@@ -25,8 +25,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+<br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esaxco&theme=algolia&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esaxco&theme=buefy&show_icons=true)
 
 [website]: https://esaxco.github.io/portfolio/
 [facebook]: https://www.facebook.com/vagan.mkrtchyan.5
