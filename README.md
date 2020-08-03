@@ -26,12 +26,12 @@
 
 <br />
 <br />
-
+<div style="display:flex; justify-content:space-between;">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=nextjs-market-application&theme=vue&show_icons=true)](
 https://github.com/EsaxCO/nextjs-market-application)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=nextjs-market-application&theme=vue&show_icons=true)](
 https://github.com/EsaxCO/nextjs-market-application)
-
+</div>
 [website]: https://esaxco.github.io/portfolio/
 [facebook]: https://www.facebook.com/vagan.mkrtchyan.5
 [linkedin]: https://linkedin.com/in/vagan-mkrtchyan-3a55071a5
