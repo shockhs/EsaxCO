@@ -27,21 +27,21 @@
 <br />
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=nextjs-market-application&theme=algolia&show_icons=true)](
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=nextjs-market-application&theme=blue-green&show_icons=true)](
 https://github.com/EsaxCO/nextjs-market-application)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=youtube-app&theme=algolia&show_icons=true)](
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=youtube-app&theme=blue-green&show_icons=true)](
 https://github.com/EsaxCO/youtube-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=chat-app&theme=algolia&show_icons=true)](
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=chat-app&theme=blue-green&show_icons=true)](
 https://github.com/EsaxCO/chat-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=phonebook-angular-fullstack&theme=algolia&show_icons=true)](
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=phonebook-angular-fullstack&theme=blue-green&show_icons=true)](
 https://github.com/EsaxCO/phonebook-angular-fullstack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=nuxt-library&theme=algolia&show_icons=true)](
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=nuxt-library&theme=blue-green&show_icons=true)](
 https://github.com/EsaxCO/nuxt-library)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=tweetme-django&theme=algolia&show_icons=true)](
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=tweetme-django&theme=blue-green&show_icons=true)](
 https://github.com/EsaxCO/tweetme-django)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=social-network&theme=algolia&show_icons=true)](
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=social-network&theme=blue-green&show_icons=true)](
 https://github.com/EsaxCO/social-network)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=todolist&theme=algolia&show_icons=true)](
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=todolist&theme=blue-green&show_icons=true)](
 https://github.com/EsaxCO/todolist)
 
 
