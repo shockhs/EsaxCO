@@ -27,7 +27,7 @@
 <br />
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=slider-javascript&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=slider-javascript&theme=tokyonight&show_icons=true)](https://github.com/EsaxCO/slider-javascript)
 
 [website]: https://esaxco.github.io/portfolio/
 [facebook]: https://www.facebook.com/vagan.mkrtchyan.5
