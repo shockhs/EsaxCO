@@ -17,7 +17,7 @@
 <img align="left" alt="Next" width="36px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/9114856761551941711-512.png" />
 <img align="left" alt="Angular" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Vue" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Nuxt" width="36px" src="https://nuxtjs.org/logos/nuxt-icon-white.png" />
+<img align="left" alt="Nuxt" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png" />
 <img align="left" alt="GraphQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
