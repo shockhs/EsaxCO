@@ -41,7 +41,8 @@ https://github.com/EsaxCO/nuxt-library)
 https://github.com/EsaxCO/tweetme-django)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=social-network&theme=algolia&show_icons=true)](
 https://github.com/EsaxCO/social-network)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=todolist&theme=algolia&show_icons=true)](
+https://github.com/EsaxCO/todolist)
 
 
 [website]: https://esaxco.github.io/portfolio/
