@@ -27,7 +27,10 @@
 <br />
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=slider-javascript&theme=vue&show_icons=true)](https://github.com/EsaxCO/slider-javascript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=nextjs-market-application&theme=vue&show_icons=true)](
+https://github.com/EsaxCO/nextjs-market-application)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=nextjs-market-application&theme=vue&show_icons=true)](
+https://github.com/EsaxCO/nextjs-market-application)
 
 [website]: https://esaxco.github.io/portfolio/
 [facebook]: https://www.facebook.com/vagan.mkrtchyan.5
