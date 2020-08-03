@@ -26,7 +26,7 @@
 
 <br />
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esaxco&theme=algolia&show_icons=true)
 
 [website]: https://esaxco.github.io/portfolio/
 [facebook]: https://www.facebook.com/vagan.mkrtchyan.5
