@@ -30,24 +30,6 @@
 <br />
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=nextjs-market-application&theme=vue&show_icons=true)](
-https://github.com/EsaxCO/nextjs-market-application)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=youtube-app&theme=vue&show_icons=true)](
-https://github.com/EsaxCO/youtube-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=chat-app&theme=vue&show_icons=true)](
-https://github.com/EsaxCO/chat-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=phonebook-angular-fullstack&theme=vue&show_icons=true)](
-https://github.com/EsaxCO/phonebook-angular-fullstack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=nuxt-library&theme=vue&show_icons=true)](
-https://github.com/EsaxCO/nuxt-library)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=tweetme-django&theme=vue&show_icons=true)](
-https://github.com/EsaxCO/tweetme-django)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=social-network&theme=vue&show_icons=true)](
-https://github.com/EsaxCO/social-network)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=esaxco&repo=todolist&theme=vue&show_icons=true)](
-https://github.com/EsaxCO/todolist)
-
-
 [website]: https://esaxco.github.io/portfolio/
 [facebook]: https://www.facebook.com/vagan.mkrtchyan.5
 [linkedin]: https://linkedin.com/in/vagan-mkrtchyan-3a55071a5
